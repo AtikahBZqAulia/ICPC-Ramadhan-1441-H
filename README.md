@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the 1st ever Islamic Collegiate Programming Contest (ICPC) Ramadhan 1441 H
 
 You can use the [editor on GitHub](https://github.com/AtikahBZqAulia/ICPC-Ramadhan-1441-H/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
