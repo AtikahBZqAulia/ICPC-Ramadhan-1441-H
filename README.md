@@ -7,7 +7,7 @@
 ```markdown
 GATATATGCATATACTT
 ATAT
-
+```
 # Sample Output
 ```markdown
 2 4 10
