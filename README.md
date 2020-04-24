@@ -1,25 +1,22 @@
-## Welcome to the 1st ever Islamic Collegiate Programming Contest (ICPC) Ramadhan 1441 H
+## Welcome to the 1st ever Islamic Collegiate Programming Contest (ICPC) Ramadhan 1441 H in the World
 
 You can use the [editor on GitHub](https://github.com/AtikahBZqAulia/ICPC-Ramadhan-1441-H/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Introduction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+# Sample Input
 ```markdown
-Syntax highlighted code block
+GATATATGCATATACTT
+ATAT
 
-# Header 1
+# Sample Output
+```markdown
+2 4 10
+
 ## Header 2
 ### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
@@ -28,10 +25,12 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Problem 1 : Membantu Pak Ustadz di bulan Ramadhan
+Sekelompok siswa internasional sedang mempelajari nama-nama Nabi dan Rasul yang perlu diketahui. Jumlahnya ada 25. Mereka menjawab secara urut namun beberapa dari mereka masih menyebutkan nama-nama tersebut dalam Bahasa Inggris. Pak Ustadz memberitahu mereka melalui sistem otomatis dengan membuat program. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AtikahBZqAulia/ICPC-Ramadhan-1441-H/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+وَالْمُؤْمِنُونَ وَالْمُؤْمِنَاتُ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ ۚ يَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنْكَرِ وَيُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَيُطِيعُونَ اللَّهَ وَرَسُولَهُ ۚ أُولَٰئِكَ سَيَرْحَمُهُمُ اللَّهُ ۗ إِنَّ اللَّهَ عَزِيزٌ حَكِيمٌ
+_“Dan orang-orang yang beriman, lelaki dan perempuan, sebahagian mereka (adalah) menjadi penolong bagi sebahagian yang lain. Mereka menyuruh (mengerjakan) yang ma’ruf, mencegah dari yang munkar”_ **QS At-Taubah/9 : 71**
 
-### Support or Contact
+### Problem 2
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
