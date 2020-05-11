@@ -1,4 +1,4 @@
-## Welcome to the 1st ever Islamic Collegiate Programming Contest (ICPC) Ramadhan 1441 H in the World
+## Welcome to the 1st ever Islamic Collegiate Programming Challenge (ICPC) Ramadhan 1441 H in the World
 
 
 ### Introduction
@@ -23,5 +23,5 @@ _“Dan orang-orang yang beriman, lelaki dan perempuan, sebahagian mereka (adala
 
 UNDUH dataset input [disini](https://drive.google.com/open?id=1JpoA6fpAgb-ApsWbgwb1BfPdYION9KG9)
 ### Pahala #2
-
+Kemarin tanggal 17 Ramadhan bertepatan dengan hari turunnya mukjizat Al-Quran kepada Nabi Muhammad SAW atau disebut juga Nuzulul Quran. 
 COMING SOON DI LAYAR MONITOR YA GUYS
