@@ -15,7 +15,8 @@ UNDUH dataset input [disini](https://drive.google.com/open?id=1JpoA6fpAgb-ApsWbg
 ## Pahala #2 : Mengenal Al Quran
 Kemarin tanggal 17 Ramadhan bertepatan dengan hari turunnya mukjizat Al-Quran kepada Nabi Muhammad SAW atau disebut juga Nuzulul Quran. Al Quran diturunkan secara berangsur-angsur di Makkah dan Madinah. Adapun surah yang diturunkan di Makkah dinamakan surah Makiyyah sedangkan surah yang diturunkan di Madinah dinamakan surah Madaniyyah.
 Ada berapakah jumlah surah Makiyyah dan Madaniyah pada ***x*** surah pertama dimulai dari surah ke-***y***?
-***x*** = (tanggal Nuzulul Quran dalam penanggalan Hijriah)
+
+***x*** = (tanggal Nuzulul Quran dalam penanggalan Hijriah);
 ***y*** = (tanggal Nabi Muhammad shallallahu alaihi wasallam dilahirkan dalam penanggalan Hijriah) * (jumlah shalat wajib yang dijalankan umat Muslim dalam 1 hari)
 ### Sample Output
 ```markdown
