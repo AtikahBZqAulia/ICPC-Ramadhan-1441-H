@@ -1,7 +1,7 @@
 # Welcome to the 1st ever Islamic Collegiate Programming Challenge (ICPC) Ramadhan 1441 H in the World
 
 
-## Missions (Should Be) Completed :
+## Missions (Should Be) Completed : MENGEJAR RIDHO ALLAH 
 
 ## Pahala #1 : Membantu Pak Ustadz di bulan Ramadhan (bobot 15)
 Sekelompok siswa internasional sedang mempelajari nama-nama Nabi dan Rasul yang perlu diketahui. Jumlahnya ada 25. Mereka menjawab secara urut namun beberapa dari mereka masih menyebutkan nama-nama tersebut dalam Bahasa Inggris. Pak Ustadz memberitahu mereka melalui sistem otomatis dengan membuat program. 
