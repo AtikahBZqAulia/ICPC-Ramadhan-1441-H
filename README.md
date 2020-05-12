@@ -2,6 +2,9 @@
 
 
 ## Missions (Should Be) Completed : "MENGEJAR RIDHO ALLAH"
+If you feel challenged, join this and win the prizes:
+WINNER : IDR100k
+RUNNER UP : IDR50k
 ***#Deadline : 21 Ramadhan 1441 H*** atau Kamis, 14 Mei 2020, 18.00 WIB
 
 ## Pahala #1 : Membantu Pak Ustadz di bulan Ramadhan (bobot 15)
