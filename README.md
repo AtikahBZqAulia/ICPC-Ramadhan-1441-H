@@ -52,3 +52,6 @@ Contoh :
 #ICPCRamadhan1441H #Madaniyah #QS.4:1-9 #Makkiyah #QS.10:102-109
 
 UNDUH data surah dalam format json [disini](https://drive.google.com/open?id=1bGSDBbxn-T2g8KZ8Q525APkDlMebq_2Z)
+
+
+CLICK SUBMISSION FORM [here](https://forms.gle/SkC9Y9sgqG7qZnS9A)
