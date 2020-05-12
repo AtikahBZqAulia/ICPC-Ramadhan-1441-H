@@ -20,11 +20,16 @@ Ada berapakah jumlah surah Makiyyah dan Madaniyah pada ***x*** surah pertama dim
 ***y*** = (tanggal Nabi Muhammad shallallahu alaihi wasallam dilahirkan dalam penanggalan Hijriah) * (jumlah shalat wajib yang dijalankan umat Muslim dalam 1 hari)
 ### Sample Output
 ```markdown
-Makiyah Madaniyah
+Madaniyah Makiyyah
 6 11
 ```
 ## Pahala #3 : Mengejar Malam Lailatul Qadr
+Lailatul Qadar itu terjadi pada sepuluh malam terakhir di bulan Ramadhan sebagaimana sabda Nabi shallallahu ‘alaihi wa sallam,
+***تَحَرَّوْا لَيْلَةَ الْقَدْرِ فِى الْعَشْرِ الأَوَاخِرِ مِنْ رَمَضَانَ***
 
+_“Carilah lailatul qadar pada sepuluh malam terakhir dari bulan Ramadhan”_ **HR. Bukhari no. 2020 dan Muslim no. 1169**
+
+Buatlah list surah yang akan kamu baca pada challenge berikutnya dengan format ***_Sample Output_*** berikut. Apabila merupakan surah Madaniyah, bacalah ***_k_*** ayat terakhir. Sedangkan jika merupakan surah Makiyyah, bacalah ***_l_*** ayat pertama.
 ### Sample Output
 ```markdown
 1. Surah Al Fatihah : 1-6
