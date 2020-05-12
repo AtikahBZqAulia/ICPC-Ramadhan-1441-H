@@ -3,16 +3,6 @@
 
 ## Introduction
 
-### Sample Input
-```markdown
-GATATATGCATATACTT
-ATAT
-```
-### Sample Output
-```markdown
-2 4 10
-```
-
 ## Pahala #1 : Membantu Pak Ustadz di bulan Ramadhan
 Sekelompok siswa internasional sedang mempelajari nama-nama Nabi dan Rasul yang perlu diketahui. Jumlahnya ada 25. Mereka menjawab secara urut namun beberapa dari mereka masih menyebutkan nama-nama tersebut dalam Bahasa Inggris. Pak Ustadz memberitahu mereka melalui sistem otomatis dengan membuat program. 
 
