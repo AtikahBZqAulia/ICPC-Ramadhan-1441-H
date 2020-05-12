@@ -46,6 +46,7 @@ UNDUH data surah dalam format json [disini](https://drive.google.com/open?id=1bG
 ## Pahala #4 : Lebih Serius dalam Ibadah di Sepuluh Hari Terakhir Ramadhan (bobot 15)
 Hadits di atas menunjukkan keutamaan beramal sholih di 10 hari terakhir dari bulan Ramadhan. Sepuluh hari terakhir bulan Ramadhan punya keistimewaan dalam ibadah dari hari-hari lainnya di bulan Ramadhan. Ibadah yang dimaksudkan di sini mencakup shalat, dzikir, dan tilawah Al Qur’an.
 Lafadzkan potongan ayat pada salah satu surah Makkiyah dan salah satu surah Madaniyah pada output ***Pahala #3*** kemudian unggah video kamu melafadzkan potongan ayat tersebut ke Instagram atau Youtube (harus bisa diakses secara public) dan tambahkan terjemahan ayat Al Quran favorit kamu disertai dengan hashtag #ICPCRamadhan1441H #Madaniyah #(urutan surah dalam Al Quran):(ayat) #Makkiyah #(urutan surah dalam Al Quran):(ayat).
+
 Contoh : 
 “Dan (ingatlah juga), tatkala Rabbmu memaklumkan; “Sesungguhnya jika kamu bersyukur, pasti Kami akan menambah (nikmat) kepadamu, dan jika kamu mengingkari (nikmat-Ku), maka sesungguhnya azab-Ku sangat pedih” (QS. Ibrahim: 7)
 #ICPCRamadhan1441H #Madaniyah #QS.4:1-9 #Makkiyah #QS.10:102-109
