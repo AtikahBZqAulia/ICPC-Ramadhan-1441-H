@@ -1,7 +1,7 @@
 # Welcome to the 1st ever Islamic Collegiate Programming Challenge (ICPC) Ramadhan 1441 H in the World
 
 
-## Introduction
+## Missions (Should Be) Completed :
 
 ## Pahala #1 : Membantu Pak Ustadz di bulan Ramadhan
 Sekelompok siswa internasional sedang mempelajari nama-nama Nabi dan Rasul yang perlu diketahui. Jumlahnya ada 25. Mereka menjawab secara urut namun beberapa dari mereka masih menyebutkan nama-nama tersebut dalam Bahasa Inggris. Pak Ustadz memberitahu mereka melalui sistem otomatis dengan membuat program. 
@@ -12,6 +12,7 @@ Sekelompok siswa internasional sedang mempelajari nama-nama Nabi dan Rasul yang 
 _“Dan orang-orang yang beriman, lelaki dan perempuan, sebahagian mereka (adalah) menjadi penolong bagi sebahagian yang lain. Mereka menyuruh (mengerjakan) yang ma’ruf, mencegah dari yang munkar”_ **QS At-Taubah/9 : 71**
 
 UNDUH dataset input [disini](https://drive.google.com/open?id=1JpoA6fpAgb-ApsWbgwb1BfPdYION9KG9)
+
 ## Pahala #2 : Mengenal Al Quran
 Kemarin tanggal 17 Ramadhan bertepatan dengan hari turunnya mukjizat Al-Quran kepada Nabi Muhammad SAW atau disebut juga Nuzulul Quran. Al Quran diturunkan secara berangsur-angsur di Makkah dan Madinah. Adapun surah yang diturunkan di Makkah dinamakan surah Makiyyah sedangkan surah yang diturunkan di Madinah dinamakan surah Madaniyyah.
 Ada berapakah jumlah surah Makiyyah dan Madaniyah pada ***x*** surah pertama dimulai dari surah ke-***y***?
@@ -23,6 +24,8 @@ Ada berapakah jumlah surah Makiyyah dan Madaniyah pada ***x*** surah pertama dim
 Madaniyah Makkiyah
 6 11
 ```
+UNDUH data surah dalam format json [disini](https://drive.google.com/open?id=1bGSDBbxn-T2g8KZ8Q525APkDlMebq_2Z)
+
 ## Pahala #3 : Mengejar Malam Lailatul Qadr
 Lailatul Qadar itu terjadi pada sepuluh malam terakhir di bulan Ramadhan sebagaimana sabda Nabi shallallahu ‘alaihi wa sallam,
 ***تَحَرَّوْا لَيْلَةَ الْقَدْرِ فِى الْعَشْرِ الأَوَاخِرِ مِنْ رَمَضَانَ***
@@ -37,6 +40,7 @@ Buatlah list ***x*** surah yang akan kamu baca pada challenge berikutnya dengan 
 3. ....
 4. ....
 ```
+UNDUH data surah dalam format json [disini](https://drive.google.com/open?id=1bGSDBbxn-T2g8KZ8Q525APkDlMebq_2Z)
 
 ## Pahala #4 : Lebih Serius dalam Ibadah di Sepuluh Hari Terakhir Ramadhan
 Hadits di atas menunjukkan keutamaan beramal sholih di 10 hari terakhir dari bulan Ramadhan. Sepuluh hari terakhir bulan Ramadhan punya keistimewaan dalam ibadah dari hari-hari lainnya di bulan Ramadhan. Ibadah yang dimaksudkan di sini mencakup shalat, dzikir, dan tilawah Al Qur’an.
