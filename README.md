@@ -20,7 +20,7 @@ Ada berapakah jumlah surah Makiyyah dan Madaniyah pada ***x*** surah pertama dim
 ***y*** = (tanggal Nabi Muhammad shallallahu alaihi wasallam dilahirkan dalam penanggalan Hijriah) * (jumlah shalat wajib yang dijalankan umat Muslim dalam 1 hari)
 ### Sample Output
 ```markdown
-Madaniyah Makiyyah
+Madaniyah Makkiyah
 6 11
 ```
 ## Pahala #3 : Mengejar Malam Lailatul Qadr
