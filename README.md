@@ -29,7 +29,7 @@ Lailatul Qadar itu terjadi pada sepuluh malam terakhir di bulan Ramadhan sebagai
 
 _“Carilah lailatul qadar pada sepuluh malam terakhir dari bulan Ramadhan”_ **HR. Bukhari no. 2020 dan Muslim no. 1169**
 
-Buatlah list ***x*** surah yang akan kamu baca pada challenge berikutnya dengan format ***_Sample Output_*** berikut. Apabila merupakan surah Madaniyah, bacalah ***_k_*** ayat terakhir. Sedangkan jika merupakan surah Makiyyah, bacalah ***_l_*** ayat pertama.
+Buatlah list ***x*** surah yang akan kamu baca pada challenge berikutnya dengan format ***_Sample Output_*** berikut. Apabila merupakan surah Madaniyah, bacalah ***_k_*** ayat terakhir. Sedangkan jika merupakan surah Makkiyah, bacalah ***_l_*** ayat pertama.
 ### Sample Output
 ```markdown
 1. Surah Al Fatihah : 1-6
@@ -40,4 +40,4 @@ Buatlah list ***x*** surah yang akan kamu baca pada challenge berikutnya dengan 
 
 ## Pahala #4 : Lebih Serius dalam Ibadah di Sepuluh Hari Terakhir Ramadhan
 Hadits di atas menunjukkan keutamaan beramal sholih di 10 hari terakhir dari bulan Ramadhan. Sepuluh hari terakhir bulan Ramadhan punya keistimewaan dalam ibadah dari hari-hari lainnya di bulan Ramadhan. Ibadah yang dimaksudkan di sini mencakup shalat, dzikir, dan tilawah Al Qur’an.
-Lafadzkan potongan ayat pada salah satu surah Makiyyah dan salah satu surah Madaniyyah pada output ***Pahala #3***
+Lafadzkan potongan ayat pada salah satu surah Makkiyah dan salah satu surah Madaniyah pada output ***Pahala #3***
